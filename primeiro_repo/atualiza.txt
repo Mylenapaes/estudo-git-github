@@ -1,1 +1,3 @@
-Subindo um arquuivo remotamente para entender o conceito do comando "git pull", ou seja, para sincronizar alterações remotas para local. 
+Subindo um arquivo remotamente para entender o conceito do comando "git pull", ou seja, para sincronizar alterações remotas para local. 
+
+Editando e oervando essa modificacao se propagando
