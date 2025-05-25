@@ -1,0 +1,1 @@
+Subindo um arquuivo remotamente para entender o conceito do comando "git pull", ou seja, para sincronizar alterações remotas para local. 
