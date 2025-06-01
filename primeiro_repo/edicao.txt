@@ -1,1 +1,4 @@
 Editando um arquivo para entender melhor o comando "git pull"
+
+o amor é fogo que arde e não se vê
+É ferida que se dói e não se sente
